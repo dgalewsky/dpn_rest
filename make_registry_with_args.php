@@ -1,4 +1,4 @@
-d<?php
+<?php
 	
 	// 
 	// This utility accepts a uuid of a bag and creates a registry record for that bag.
